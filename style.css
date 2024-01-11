@@ -1,0 +1,57 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        
+    }
+    body{
+        color: #fff;
+        background: #9b9b9b;
+        height: 100%;
+        
+    }
+    #game{
+        width: 400px;
+        background: #222222;
+        padding: 18px;
+        text-align: center;
+        margin:auto;
+        
+    }
+    h1{
+        margin: 0 0 18px 0;
+        border:solid 1px #fff;
+        padding: 5px;
+        font-weight: 400;
+    }
+    span{
+        font-size:125%;
+        padding: 12px;
+    }
+    #result{
+        width: 90px;
+    }
+    #answer{
+        margin-top: 10px;
+        padding:5px;
+        border:none;
+        width: 100px;
+        background-color: #565613;
+        color:#fff;
+    }
+    #answer:hover{
+        background: #0c5f17;
+    }
+    #true,#false{
+        font-size: 150%;
+        margin-top: 10px;
+        padding: 10px;
+        display: inline-block;
+    }
+    #true{
+        background-color: #1c9605;
+    }
+    #false{
+        background: #bd0c0c;
+    }
