@@ -5,16 +5,18 @@
         box-sizing: border-box;
         
     }
+    
     body{
         color: #fff;
-        background: #9b9b9b;
+        background: #928888;
         height: 100%;
         
     }
     #game{
+  
         width: 400px;
         background: #222222;
-        padding: 18px;
+        padding: 16px;
         text-align: center;
         margin:auto;
         
